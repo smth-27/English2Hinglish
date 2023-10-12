@@ -6,6 +6,7 @@ Setup:
 
 Install the required Python packages using pip:
   pip install -r requirements.txt
+  
 Run the script:
   python3 main.py
 
